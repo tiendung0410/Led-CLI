@@ -1,7 +1,6 @@
 #include "cli_command.h"
 #include <string.h>
 #include "response_ci.h"
-#include "gettempperature_ci.h"
 #include "cli_types.h"
 
 extern const cli_command_entry_t  command_entry_table[];
