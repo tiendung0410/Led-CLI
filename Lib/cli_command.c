@@ -43,7 +43,7 @@ void cli_command_excute(char *uart_buff,uint8_t len)
 		}
 		else
 		{
-			response_print("find not found command\n");
+			response_print("can no find command\n");
 		}
 }
 
